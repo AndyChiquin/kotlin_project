@@ -34,10 +34,17 @@ docker run itsandy/kotlin_project
 docker login
 ~~~
 
-## Docker Desktop pull in Docker Hub
+## Docker Desktop push in Docker Hub
 ~~~
-docker pull itsandy/kotlin_project
+docker push itsandy/kotlin_project
 ~~~
+
+## Kotlin Image URL
+~~~
+https://hub.docker.com/r/itsandy/kotlin_project
+~~~
+
+
 
 # RailWay
 We log in and link to GitHub to deploy the repositories.
